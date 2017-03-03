@@ -7,6 +7,9 @@ title: Asymmetrical Thoughts
 tagline: 'Me finding my place in the world'
 description: 'A blog about something and nothing. Meaning an exploration of what it means for me to exist'
 
+url: http://darthcoder.github.io
+baseurl: /
+ 
 author: 'Abdul Basit Ahmad'
 paginate: 5
 
