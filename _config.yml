@@ -11,7 +11,10 @@ description: 'A blog about something and nothing. Meaning an exploration of what
 url: http://darthcoder.github.io
 baseurl: /
  
-author: 'Abdul Basit Ahmad'
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/basyt
+
 paginate: 5
 
 version: 0.1
