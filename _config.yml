@@ -12,9 +12,9 @@ url: http://darthcoder.github.io
 baseurl: /
  
 author:
-  name:           'Mark Otto'
+  name:           'Abdul Basit Ahmad'
   url:            https://twitter.com/basyt
 
 paginate: 5
 
-version: 0.1
+version: 0.15
