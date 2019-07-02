@@ -3,9 +3,12 @@ highlighter: rouge
 
 permalink: pretty
 
-title: Wyrd
-tagline: 'Me finding my place in the world'
-description: 'A blog about something and nothing. Meaning an exploration of what it means for me to exist.'
+title: Evil(er)
+tagline: 'Nice Guy No More'
+description: 'I have spent three decades trying to fit in, always feeling like I don't know enough or that maybe if I read all these books,
+somehow or the other I will be able to solve the world or whatever. The goalposts kept changing but I just tried to keep on keepin on, you know.
+
+But I'm tired of playing catch up. Its time for a re-invention and a promise - I am not going to be a sucker ever again in my life. Period.'
 
 
 url: http://darthcoder.github.io
@@ -13,8 +16,8 @@ baseurl: /
  
 author:
   name:           'Abdul Basit Ahmad'
-  url:            https://twitter.com/basyt
+  url:            https://github.com/darthcoder
 
-paginate: 5
+paginate: 10
 
-version: 0.15
+version: 0.20
