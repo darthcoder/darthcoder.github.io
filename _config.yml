@@ -4,18 +4,18 @@ highlighter: rouge
 permalink: pretty
 
 title: Evil(er)
-tagline: 'Nice Guy No More'
-description: 'I have spent three decades trying to fit in, always feeling like I don't know enough or that maybe if I read all these books,
+tagline: "Nice Guy No More"
+description: "I have spent three decades trying to fit in, always feeling like I don't know enough or that maybe if I read all these books,
 somehow or the other I will be able to solve the world or whatever. The goalposts kept changing but I just tried to keep on keepin on, you know.
 
-But I'm tired of playing catch up. Its time for a re-invention and a promise - I am not going to be a sucker ever again in my life. Period.'
+But I'm tired of playing catch up. Its time for a re-invention and a promise - I am not going to be a sucker ever again in my life. Period."
 
 
 url: http://darthcoder.github.io
 baseurl: /
  
 author:
-  name:           'Abdul Basit Ahmad'
+  name:           "Abdul Basit Ahmad"
   url:            https://github.com/darthcoder
 
 paginate: 10
