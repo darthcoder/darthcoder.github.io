@@ -3,11 +3,9 @@ highlighter: rouge
 
 permalink: pretty
 
-title: Evil(er)
-tagline: "Nice Guy No More"
-description: "I have spent three decades trying to fit in but I'm tired of playing catch up. Its time for a re-invention and a promise 
-- I am not going to be a sucker ever again in my life. Period."
-
+title: Asymmetrical Thoughts
+tagline: "A blog about software development, programming, and technology."
+description: "A blog about software development, programming, and technology."
 
 url: http://darthcoder.github.io
 baseurl: /
