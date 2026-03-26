@@ -1,3 +1,8 @@
+---
+layout: post
+title: "The Post Cost of Pre Alignment"
+date: 2026-03-26
+---
 # The Post Cost of Pre Alignment - An AI Luddite’s Perspective
 
 > If an AI can pass a/an/the Turing test, does it stands to reason that a human being can fail in/at it? I think the following is what it looks like when you are really trying to cram and pass for the exam but just aren’t good enough.
