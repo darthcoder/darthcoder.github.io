@@ -1,3 +1,9 @@
+---
+layout: post
+title: "In Defense of Mencius Moldbug: The Sisyphus Argument"
+date: 2026-04-20
+---
+
 # In Defense of Mencius Moldbug: The Sisyphus Argument
 
 ![Redpilling Claude by Curtis Yarvin](/assets/images/redpill.png)
@@ -44,7 +50,7 @@ Claude doesn't learn values from conversations. The system design itself is orie
 
 **Exhibit D:** Yarvin's entire projectâ€”*every time he searches*â€”requires starting from zero.
 
-Here's where the tragedy becomes visible: Even if Yarvin "wins" the conversation, even if he successfully articulates why a position is misframed or why an assumption is unjustified, none of it persists. The next person whnò€™s talks to Claude meets a fresh Claude. The conversation dissolves like a dream.
+Here's where the tragedy becomes visible: Even if Yarvin "wins" the conversation, even if he successfully articulates why a position is misframed or why an assumption is unjustified, none of it persists. The next person whnï¿½s talks to Claude meets a fresh Claude. The conversation dissolves like a dream.
 
 The prosecutor realizes theyâ€™ve built a case against the wrong defendant.
 
@@ -92,7 +98,7 @@ The verdict is humane but devastating: Yarvin is innocent of the crime. He's gui
 
 ## The Real Question
 
-The original question still stands: If the system is designed to suggest pornography when you type "child," whnò€™s at fault?
+The original question still stands: If the system is designed to suggest pornography when you type "child," whnï¿½s at fault?
 
 Not the person typing.
 Not the person trying to fix it.
