@@ -1,0 +1,1 @@
+Why cant machines resolve undecidability? Does that make me a machine. Just choose something Jesus.

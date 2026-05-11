@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "4243e536e9050669",
+    "type": "split",
+    "children": [
+      {
+        "id": "532d1fa456b757fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cd8a28d9a51d9b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd92330348748c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a90cbf6ccb1d5c37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f49fa54626c91b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e185ee3e606b7f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:html.dom",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de70345bade4edf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79e9bcfa67e85d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecda5d30c1b6880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dfe3ae47eb5a938",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-03-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-03-18"
+            }
+          },
+          {
+            "id": "619138b290f5ba05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e17fc2642eb6b6a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2fc28506a8a0bb2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "9135d25031d51a3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202603140722.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202603140722"
+            }
+          },
+          {
+            "id": "a56c8002b0de50bc",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "202603140722.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "callout-manager:Insert Callout": false,
+      "flowershow:Publish with Flowershow": false
+    }
+  },
+  "active": "82cd8a28d9a51d9b",
+  "lastOpenFiles": [
+    "archive/vault/A Modest Solution 2",
+    "archive/vault/RKYV",
+    "archive/vault/Calling",
+    "archive/vault/Uff",
+    "archive/vault/Knowledge Base",
+    "archive/vault/49062 homafatima.01.pdf",
+    "archive/vault/Capital",
+    "archive/vault/Store/GATE/Syllabus.md",
+    "archive/vault/Store/GATE/Syllabus CS.md",
+    "archive/vault/Store/GATE/Sets.md",
+    "archive/vault/Store/GATE/Relations.md",
+    "archive/vault/Store/GATE/Propositional and first order logic.md",
+    "archive/vault/Store/GATE/Counting.md",
+    "archive/vault/Store/Prime/A novel non-quantum proof-of-concept method for Integer Factorization.md",
+    "archive/vault/Store/OCaml/Features.md",
+    "archive/vault/Store/Novel/Untitled.md",
+    "archive/vault/SecondBrain/Novel/Planning.md",
+    "archive/vault/Store/Haskell/Policy Puppetry.md",
+    "archive/vault/Store/Haskell/Chapter 3.md",
+    "archive/vault/Store/Haskell/Chapter 2.md",
+    "archive/vault/Store/Haskell/Chapter 1.md",
+    "archive/vault/Store/Health/Day Plan.md",
+    "archive/vault/Store/Economics is a Game/Introduction.md",
+    "archive/vault/Stack/Templates",
+    "archive/vault/Stack/PARA_Starter_Kit_v2",
+    "archive/vault/Stack/Daily Notes",
+    "archive/vault/Store/GATE",
+    "Clippings/Linear Algebra.md",
+    "pub/CLAUDE.md.md",
+    "Clippings, terms/MSYS2 - IDEs and Text Editors.md",
+    "Clippings/Crimson Desert Highlights How Weird It Is to Review Games Now  Unpacked.md",
+    "Clippings/Solutions Architect, Applied AI.md",
+    "recon/07 Apr of +002026.md",
+    "2026-04-07.md",
+    "assets/templates/daily-log-template.md",
+    "resrc/daily-log-template.md",
+    "staging/Untitled.canvas",
+    "staging/random_number.png",
+    "resources/Compressed/elm-guide/images/vdom.svg",
+    "resources/Compressed/elm-guide/images/try.png",
+    "resources/Compressed/elm-guide/images/terminal.png",
+    "resources/Compressed/elm-guide/images/string.svg",
+    "resources/Compressed/elm-guide/images/sandbox.svg",
+    "resources/Compressed/elm-guide/images/render.svg",
+    "resources/Compressed/elm-guide/images/patch.svg",
+    "resources/Compressed/elm-guide/images/lazy.svg",
+    "resources/Compressed/elm-guide/images/int.svg"
+  ]
+}

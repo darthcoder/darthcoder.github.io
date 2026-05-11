@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "theme": "system",
+  "baseFontSize": 16,
+  "translucency": true,
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "custom-admonitions.d422f5"
+  ]
+}

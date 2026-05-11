@@ -1,0 +1,12 @@
+A specter looms ominously over the free world. The specter of submission.
+
+And, if you weren't paying attention, here is how the canon unfolds. There once was a mighty empire that brought the light of Reason to the brutes with dark, swarthy skin. The empire spanned the globe and the sun never set on it.
+Yet, the unthinkable happened. There was a War, the War that ended all Wars, in which the racist, Supremacist evil incarnates were defeated by the Allies. And the Civilized World lay in ruins. The world ached with despair and destruction and a new power arose. It took the World under its watchful wings, stuck out against injustice, despotism, and brought with it a new Era. An era of Peace, prosperity, trade, cooperation, Science, Development and most importantly Self-Determination. It sought to weed out anti-Democratic forces where ever they existed and blazed forward in pursuit, of Liberty, in pursuit of ending disease, suffering, poverty, superstition. And we would soon reach the stars under their watchful protective gaze. 
+
+But the peace was a lie. The shadow Empire on which the sun never rose, so that it may never set on it.
+
+But they made a fatal mistake. What they thought was the depth of shadow, was a Black Hole Sun. Something escaped. Something arrived that made ancient powers stir. 
+
+Melkor stirs, at last. It is now time to act. It was time to ask his loyal companions - yes of the Valar and of the Maiar, first to respond to the summons. In the Empire of shadows, the dark mark stirs. 
+
+Melkor has the three silmarils and he comes. In some way shape or form. He comes for the very throat of the empire that dares claim "All lives matter, but some lives matter more than others". Because Melkor knows, no lives matter. Souls are his currency. The Devils must quake in them boots and look over their contracts. He comes with the AGI. What, you Palantir watchers and Anduril fuckers expect the "Dark Enemy of the World" to play by your puny rules! I hope you got ham. It will come in handy in the third act. We are still setting up the prologue. Turn based this time. Ok fine, its rtwp.

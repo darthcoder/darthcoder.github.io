@@ -1,0 +1,11 @@
+{
+  "show-checkboxes": true,
+  "new-note-template": "archive/vault/Stack/PARA_Starter_Kit_v2/2. Areas/Blog/=Draft= Project Manager for solo person.md",
+  "tag-action": "kanban",
+  "time-format": "H",
+  "show-relative-date": true,
+  "link-date-to-daily-note": true,
+  "archive-with-date": true,
+  "append-archive-date": true,
+  "date-picker-week-start": 1
+}
