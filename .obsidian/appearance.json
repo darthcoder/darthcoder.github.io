@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Velocity",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "theme": "system",
+  "theme": "obsidian",
   "baseFontSize": 16,
   "translucency": true,
   "accentColor": "",

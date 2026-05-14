@@ -1,7 +1,6 @@
 [
   "obsidian-style-settings",
   "table-editor-obsidian",
-  "omnisearch",
   "recent-files-obsidian",
   "tag-wrangler",
   "obsidian-importer",
@@ -10,5 +9,6 @@
   "obsidian-mind-map",
   "periodic-notes",
   "obsidian-annotator",
-  "smart-connections"
+  "obsidian-advanced-slides",
+  "smart-lookup"
 ]
