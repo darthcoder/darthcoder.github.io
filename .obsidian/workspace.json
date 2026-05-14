@@ -35,24 +35,10 @@
             "id": "3c5ad5421970e545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "staging/Work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Work"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -228,6 +214,7 @@
   },
   "active": "3c5ad5421970e545",
   "lastOpenFiles": [
+    "areas/recon/vault-delta-2026-W20b.md",
     "staging/Work.md",
     "staging/But What is a Machine.md",
     "areas/periodic/weekly/2026-W20.md",
@@ -259,7 +246,6 @@
     "pub/darthcoder.github.io/_posts/2026-05-10-atlas-mehs.md",
     "pub/darthcoder.github.io/_posts/2026-05-08-a-carnot-bank.md",
     "Clippings/The Title on Your Badge Is Becoming a Guess.md",
-    "pub/darthcoder.github.io/_posts/2026-05-06-the-tagged-region.md",
     "IMG_2751.jpeg",
     "IMG_2748.jpeg",
     "IMG_2747.jpeg",
