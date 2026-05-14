@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "But What is a Machine"
             }
+          },
+          {
+            "id": "3c5ad5421970e545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "staging/Work.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Work"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,8 +226,10 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "6a4e1de57b1a9bd3",
+  "active": "3c5ad5421970e545",
   "lastOpenFiles": [
+    "staging/Work.md",
+    "staging/But What is a Machine.md",
     "areas/periodic/weekly/2026-W20.md",
     "projs/alice/ISLP_website.pdf",
     "projs/alice/UnderstandingDeepLearning_02_09_26_C.pdf",
@@ -233,7 +260,6 @@
     "pub/darthcoder.github.io/_posts/2026-05-08-a-carnot-bank.md",
     "Clippings/The Title on Your Badge Is Becoming a Guess.md",
     "pub/darthcoder.github.io/_posts/2026-05-06-the-tagged-region.md",
-    "areas/notes/202605091757.md",
     "IMG_2751.jpeg",
     "IMG_2748.jpeg",
     "IMG_2747.jpeg",
