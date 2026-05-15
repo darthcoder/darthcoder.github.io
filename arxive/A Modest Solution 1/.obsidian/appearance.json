@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Tiniri",
+  "monospaceFontFamily": "Monofur Nerd Font",
+  "theme": "system",
+  "translucency": true,
+  "accentColor": "",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Helvetica Neue",
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

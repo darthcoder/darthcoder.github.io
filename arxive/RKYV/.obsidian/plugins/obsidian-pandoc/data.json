@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "unchanged",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Users\\abasi\\AppData\\Local\\Pandoc\\pandoc.exe",
+  "pdflatex": "C:\\Users\\abasi\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\pdflatex.exe",
+  "outputFolder": null,
+  "extraArguments": "--variable mainfont=\"Calibri\"  --pdf-engine=xelatex",
+  "exportFrom": "md"
+}

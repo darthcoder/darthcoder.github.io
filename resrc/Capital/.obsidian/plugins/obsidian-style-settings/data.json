@@ -1,0 +1,9 @@
+{
+  "celestial-night-theme@@colors-heading": "theme-black",
+  "celestial-night-theme@@font-text-theme": "var(--font-sans)",
+  "kakano-style@@theme-setting-predefinedBaseColor": "theme-setting-baseColorPreset-whero",
+  "minimal-edge-settings@@background-theme": "vintage-theme",
+  "minimal-edge-settings@@titlebar-button-style": "titlebar-vintage-style",
+  "natowb-nordic@@nordic-theme-flavors": "nordic-base",
+  "natowb-nordic@@nordic-colored-headers": true
+}

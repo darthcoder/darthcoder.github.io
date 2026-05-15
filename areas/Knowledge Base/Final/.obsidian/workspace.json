@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "778d1399edd049aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e088191b7a53fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9735ee122af82913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proofless/Introduction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0ee448a30f61b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24ff986b518b065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b36dd80fb30cd4dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a9007395bb9da19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "227ab0ed51e128be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2b0f51a045129b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "526c9ba0c5757fc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe9677b7affa4b78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Finance/Philosophy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Philosophy"
+            }
+          },
+          {
+            "id": "bdbdbeeed28e0375",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal Finance/Philosophy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Philosophy"
+            }
+          },
+          {
+            "id": "5faca12d4470eb54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a17c61b875a47a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal Finance/Philosophy.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Philosophy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9735ee122af82913",
+  "lastOpenFiles": [
+    "Personal Finance/Philosophy.md",
+    "GATE/Syllabus.md",
+    "GATE/Propositional and first order logic.md",
+    "GATE/Number Systems.md",
+    "GATE/Boolean Algebra.md",
+    "GATE/What_to_Read_series_-_Version_3-1.pdf",
+    "GATE/Syllabus CS.md",
+    "Daily Notes/2024-07-01.md",
+    "Daily Notes/2024-05-29.md",
+    "Daily Notes/2024-05-08.md",
+    "Thinking.md",
+    "Something to do.md",
+    "Skeleton Key.md",
+    "Plan.canvas",
+    "Vault/The (AI) Winter is Coming/Transformer.primer.pdf",
+    "Vault/The (AI) Winter is Coming/(Undergraduate Topics in Computer Science) Alberto Pettorossi - Automata Theory and Formal Languages_ Fundamental Notions, Theorems, and Techniques-Springer (2022).pdf",
+    "Vault/The (AI) Winter is Coming/Filippo Santambrogio - Optimal Transport for Applied Mathematicians_ Calculus of Variations, PDEs, and Modeling.pdf",
+    "Vault/The (AI) Winter is Coming/GPT2 Report.pdf",
+    "Vault/The (AI) Winter is Coming/Randomized Linear Algebra.pdf",
+    "Vault/The (AI) Winter is Coming/ashby-paper-V6.pdf",
+    "Vault/The (AI) Winter is Coming/Sparks Of AGI.md",
+    "Quran/Surat Ur Raad.md",
+    "The Muslim Astronaut/01.md",
+    "Vault/The (AI) Winter is Coming/Takeaways for future work.md",
+    "Vault/Finance/The Question.md",
+    "Vault/Intro to Philosophy/Think.md",
+    "Vault/Welcome.md",
+    "Vault/Agora/Introduction.md",
+    "Vault/The (AI) Winter is Coming",
+    "Vault/Intro to Philosophy",
+    "The Muslim Astronaut",
+    "Proofless/Introduction.md",
+    "The Installer/Introduction.md",
+    "The Feeder/A backend for hosting.md",
+    "The AI Winter is Coming/The (AI) Winter is Coming.md"
+  ]
+}

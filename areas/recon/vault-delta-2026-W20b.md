@@ -61,7 +61,7 @@ Note the expansion: the W19 May 8 list culled to 4 items (DarthSheaf, Rustlings/
 
 ### Related section added (this session)
 
-The weekly note now closes with a grouped backlinks section linking to: W19/W18/W17 (posting saga continuum), [[The 0th lesson]] / [[A new thread]] / [[From Allah - A little relief]] / [[An Idiotic Question]] (Quran register), [[202605091757]] (covenant), [[Emotion Concepts and their Function in a Large Language Model - Original Paper]] / [[caiib]] / [[Syllabus CS]] (matrix items), and [[vault-delta-2026-W20]] (week baseline). Each link has a one-line thematic hook.
+The weekly note now closes with a grouped backlinks section linking to: W19/W18/W17 (posting saga continuum), [[The 0th lesson]] / [[A new thread]] / [[From Allah - A little relief]] / [[An Idiotic Question]] (Quran register), [[202605091757]] (covenant), [[Emotion Concepts and their Function in a Large Language Model - Original Paper]] / [[caiib]] / [[arxive/Ark 1/GATE/Syllabus CS]] (matrix items), and [[vault-delta-2026-W20]] (week baseline). Each link has a one-line thematic hook.
 
 ***
 

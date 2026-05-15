@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: jegro-7mq3k
+created: 2026-03-15T16:17:47+05:30

@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Avenir Next",
+  "textFontFamily": "Avenir Next",
+  "theme": "system",
+  "monospaceFontFamily": "Monofur Nerd Font",
+  "baseFontSizeAction": true,
+  "translucency": true
+}

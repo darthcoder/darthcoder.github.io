@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "id": "e21ece44-492e-4272-9167-7b860a4810b1",
+      "name": "New Stream",
+      "folder": "",
+      "icon": "file-text",
+      "showTodayInRibbon": true,
+      "addCommand": false,
+      "encryptThisStream": false,
+      "disabled": false
+    }
+  ],
+  "showStreamsBarComponent": true,
+  "reuseCurrentTab": false,
+  "activeStreamId": "e21ece44-492e-4272-9167-7b860a4810b1",
+  "debugLoggingEnabled": false,
+  "barStyle": "modern"
+}

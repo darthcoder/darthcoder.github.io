@@ -1,6 +1,6 @@
 ## Section 1: Engineering Mathematics
 ### Discrete Mathematics: 
-[[projs/gate/Math/Propositional and first order logic]]. [[Sets]], [[Relations]], [[Functions]], [[partial orders]] and [[lattices]]. [[Monoids]], [[Groups]]. [[Graphs - connectivity, matching, coloring]].
+[[projs/gate/Math/Propositional and first order logic]]. [[projs/gate/Math/Sets]], [[projs/gate/Math/Relations]], [[arxive/Ark 1/GATE/Functions]], [[partial orders]] and [[lattices]]. [[Monoids]], [[Groups]]. [[Graphs - connectivity, matching, coloring]].
 
 ### Combinatorics: 
 [[projs/gate/Math/Counting]], [[recurrence relations]], [[generating functions]].

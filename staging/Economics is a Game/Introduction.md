@@ -1,4 +1,4 @@
-Economics is a game. That is it. You can turn off this video now. You are now enlightened. 
+Economics is a [[Game]]. That is it. You can turn off this video now. You are now enlightened. 
 
 This is why there is footage of a game being played, while this video is being recorded. I am reading the script off a screen while playing the game. This is not "efficient". This is just me being a masochist.
 

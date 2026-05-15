@@ -1,0 +1,11 @@
+Reporting-MTA: dns; outbound.ms.icloud.com
+X-Postfix-Queue-ID: 2C0A31800425
+X-Postfix-Sender: rfc822; ab.ahmad@icloud.com
+Arrival-Date: Wed,  4 Mar 2026 20:35:08 +0000 (UTC)
+
+Final-Recipient: rfc822; ********@****************
+Original-Recipient: rfc822;no-reply@email.claude.com
+Action: failed
+Status: 5.0.1
+Remote-MTA: dns; mxb.mailgun.org
+Diagnostic-Code: smtp; 550 5.0.1 Recipient rejected

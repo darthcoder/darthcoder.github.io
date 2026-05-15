@@ -1,0 +1,17 @@
+{
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "zoomLevel": 2,
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 6,
+  "timelineDateFormat": "LLLL",
+  "centerNeedle": true,
+  "showHelp": true,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 1,
+  "timelineColored": true,
+  "timelineStartColor": "#0042a9",
+  "timelineEndColor": "#a7c6ff"
+}

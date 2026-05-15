@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiCalendarTodoFill",
+      "RiFocus3Fill",
+      "SiOpenproject",
+      "RiMiniProgramFill",
+      "SiScikitlearn"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "AI": "SiAbstract",
+  "AI LLM": "SiAcademia",
+  "Calculus and Optimization": "SiWolframmathematica",
+  "Daily Notes": "RiCalendarTodoFill",
+  "Database Management and Warehousing": "RiDatabase2Fill",
+  "Health": "RiHealthBookLine",
+  "Linear Algebra": "RiLineChartFill",
+  "Machine Learning": "SiScikitlearn",
+  "Probability and Statistics": "SiStackedit",
+  "Programming, DSA": "RiMiniProgramFill",
+  "Pulseview": "SiOpenproject",
+  "The Fourth Idiot": "RiFocus3Fill"
+}

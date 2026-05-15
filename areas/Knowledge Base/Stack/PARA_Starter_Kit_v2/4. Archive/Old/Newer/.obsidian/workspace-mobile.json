@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "87a2e06358a82207",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dde9aed6fe28a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267e3729a54a2368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Finance/Philosophy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99164737b5f2eb01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5dcd4efaf6b64b34",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "83ffbdcaeb4f4c7a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e8a2c3b97938bf3a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c9ab709736036bf1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8a130fef537ba198",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dabcf322c9fa4c1a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal Finance/Philosophy.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e76f4e676014e1d7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal Finance/Philosophy.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e194ba81e86f10aa",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal Finance/Philosophy.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "267e3729a54a2368",
+  "lastOpenFiles": [
+    "Personal Finance/Philosophy.md",
+    "Personal Finance",
+    "Proofless/Introduction.md",
+    "Proofless",
+    "The Installer/Introduction.md",
+    "The Feeder/A backend for hosting.md",
+    "The Feeder",
+    "The Installer",
+    "The AI Winter is Coming/The (AI) Winter is Coming.md",
+    "The AI Winter is Coming/10356_a_path_towards_autonomous_mach.pdf",
+    "The AI Winter is Coming/language-models.pdf",
+    "The AI Winter is Coming/Transformer.primer.pdf",
+    "The AI Winter is Coming",
+    "Skeleton Key.md",
+    "Uncertain Iterated Prisoners Dilemma",
+    "The Other Side of Trades",
+    "Vault/The (AI) Winter is Coming/Sparks Of AGI.md",
+    "Quran/Surat Ur Raad.md",
+    "Daily Notes/2024-06-02.md",
+    "Daily Notes/2024-05-09.md",
+    "Something to do.md",
+    "Daily Notes/2024-05-08.md",
+    "Thinking.md"
+  ]
+}

@@ -1,0 +1,3 @@
+Credit where it is due, PageRank was a revolutionary idea and completely transformed the internet. But, without going too much into the details, it has some major weaknesses that couldn't have been anticipated at the time it came out and that has led to a unique set of problems that is facing internet and by extension human online culture even today.
+
+If we go back to the origin of the the algorithm, then as most people know 

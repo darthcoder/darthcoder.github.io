@@ -2,7 +2,6 @@
 date: 2026-04-22
 tags:
   - blog
-  - anthropic
   - boring
   - lifehack
   - tech

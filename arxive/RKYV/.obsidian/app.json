@@ -1,0 +1,13 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "resources",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "promptDelete": true,
+  "openBehavior": "daily"
+}

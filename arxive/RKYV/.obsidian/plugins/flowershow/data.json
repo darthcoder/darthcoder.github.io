@@ -1,0 +1,9 @@
+{
+  "flowershowToken": "fs_pat_xuFVf7mV4PaV4kc89zmZ0K1R0cHGYxU15uXHZsaNpQg",
+  "siteName": "hevil",
+  "rootDir": "pub",
+  "excludePatterns": [
+    "\\.excalidraw(\\.(md|excalidraw))?$"
+  ],
+  "lastSeenVersion": ""
+}

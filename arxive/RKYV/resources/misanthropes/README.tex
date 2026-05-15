@@ -1,0 +1,107 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\begin{verbatim}
+darthcoder
+\end{verbatim}
+
+\href{https://basyt.wordpress.com/}{\pandocbounded{\includegraphics[keepaspectratio,alt={Blog}]{https://img.shields.io/badge/asymmetrical_thoughts-basyt.wordpress.com-333?style=flat-square}}}
+\href{https://darthcoder.github.io/}{\pandocbounded{\includegraphics[keepaspectratio,alt={Site}]{https://img.shields.io/badge/journal-darthcoder.github.io-333?style=flat-square}}}
+\href{https://www.linkedin.com/in/abdulbahmad/}{\pandocbounded{\includegraphics[keepaspectratio,alt={LinkedIn}]{https://img.shields.io/badge/linkedin-abdulbahmad-333?style=flat-square}}}
+\href{https://x.com/basyt}{\pandocbounded{\includegraphics[keepaspectratio,alt={X}]{https://img.shields.io/badge/x-@basyt-333?style=flat-square}}}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+IIT Kanpur · Canara Bank · IBM AI Developer \& IBM Data Science
+Certifications from Coursera available on request
+
+Building things. Writing about it since 2005. Personal blog
+(unmaintained): https://basyt.wordpress.com Personal blog (somewhat
+newer): https://darthcoder.github.io/ Personal blog (newly started):
+unable.to.find.link
+
+\textbf{Now:} Omarchy (Hyprland/Wayland) · Prompt Engineering
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+Coursera
+
+IBM AI Developer Specialization · IBM Data Science Specialization
+
+Developing AI Applications with Python and Flask --- 100\% ·
+Introduction to HTML, CSS \& JavaScript --- 96\% · Generative AI:
+Introduction and Applications --- 94\% · Algorithms Part I (Princeton)
+--- 91\% · Python Project for Data Engineering --- 90\% · Building GenAI
+Powered Applications with Python --- 91\% · Introduction to Data
+Engineering --- 91\% · Software Developer Career Guide --- 91\% ·
+Introduction to AI --- 89\% · Generative AI: Prompt Engineering Basics
+--- 88\%
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\end{document}
