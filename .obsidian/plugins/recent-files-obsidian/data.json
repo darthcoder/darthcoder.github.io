@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-W19",
+      "path": "areas/periodic/weekly/2026-W19.md"
+    },
+    {
+      "basename": "2026-W18",
+      "path": "areas/periodic/weekly/2026-W18.md"
+    },
+    {
+      "basename": "2026-W17",
+      "path": "areas/periodic/weekly/2026-W17.md"
+    },
+    {
+      "basename": "vault-delta-2026-W20",
+      "path": "areas/recon/vault-delta-2026-W20.md"
+    },
+    {
+      "basename": "vault-recon-narrative",
+      "path": "arxive/vault-recon-narrative.md"
+    },
+    {
+      "basename": "Basic Ideas",
+      "path": "areas/Book notes/Das Kapital/Basic Ideas.md"
+    },
+    {
+      "basename": "marxtsvpart1",
+      "path": "areas/Book notes/Das Kapital/marxtsvpart1.pdf"
+    },
+    {
+      "basename": "The Philosophy of Notes",
+      "path": "areas/Book notes/Das Kapital/The Philosophy of Notes.md"
+    },
+    {
+      "basename": "Volume One Package-2022.09",
+      "path": "areas/Book notes/Das Kapital/Volume One Package-2022.09.pdf"
+    },
+    {
+      "basename": "Soviet Psychology Dialectics as Logic",
+      "path": "Clippings/Soviet Psychology Dialectics as Logic.md"
+    },
+    {
+      "basename": "Consistency",
+      "path": "resrc/Stack/Consistency.md"
+    },
+    {
+      "basename": "paper-2",
+      "path": "resrc/Stack/Templates/paper-2.md"
+    },
+    {
+      "basename": "memo",
+      "path": "resrc/templates/memo.md"
+    },
+    {
+      "basename": "daily-log-template",
+      "path": "resrc/templates/daily-log-template.md"
+    },
+    {
+      "basename": "atomic",
+      "path": "resrc/templates/atomic.md"
+    },
+    {
+      "basename": "Surat Ur Raad",
+      "path": "areas/QuranNotesForSelf/Surat Ur Raad.md"
+    },
+    {
+      "basename": "A life to live",
+      "path": "arxive/Ark/Projects/A life to live.md"
+    },
+    {
       "basename": "promises-audit-2026-W18",
       "path": "archive/promises-audit-2026-W18.md"
     },
@@ -59,18 +127,6 @@
     {
       "basename": "Notes",
       "path": "projs/babys_first_paper/Notes.md"
-    },
-    {
-      "basename": "2026-W18",
-      "path": "areas/periodic/weekly/2026-W18.md"
-    },
-    {
-      "basename": "2026-W19",
-      "path": "areas/periodic/weekly/2026-W19.md"
-    },
-    {
-      "basename": "vault-delta-2026-W20",
-      "path": "areas/recon/vault-delta-2026-W20.md"
     },
     {
       "basename": "2026-vault-reconnaissance",
@@ -141,40 +197,8 @@
       "path": "areas/Prologue.md"
     },
     {
-      "basename": "atomic",
-      "path": "resrc/templates/atomic.md"
-    },
-    {
       "basename": "Zoologist and author Desmond Morris dies aged 98",
       "path": "Clippings/Zoologist and author Desmond Morris dies aged 98.md"
-    },
-    {
-      "basename": "What Async Promised and What it Delivered",
-      "path": "Clippings/What Async Promised and What it Delivered.md"
-    },
-    {
-      "basename": "The Long Reply",
-      "path": "Clippings/The Long Reply.md"
-    },
-    {
-      "basename": "How Hard Is It To Open a File",
-      "path": "Clippings/How Hard Is It To Open a File.md"
-    },
-    {
-      "basename": "Simulacrum of Knowledge Work",
-      "path": "Clippings/Simulacrum of Knowledge Work.md"
-    },
-    {
-      "basename": "New Science's Report on the NIH",
-      "path": "Clippings/New Science's Report on the NIH.md"
-    },
-    {
-      "basename": "202604232001",
-      "path": "notes/202604232001.md"
-    },
-    {
-      "basename": "rhuidean  Syncthing",
-      "path": "Clippings/rhuidean  Syncthing.md"
     }
   ],
   "omittedPaths": [],
