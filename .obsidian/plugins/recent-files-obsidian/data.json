@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduction",
+      "path": "areas/Knowledge Base/Final/Proofless/Introduction.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "areas/Personal Finance/Philosophy.md"
+    },
+    {
+      "basename": "Propositional and first order logic",
+      "path": "areas/Knowledge Base/Final/GATE/Propositional and first order logic.md"
+    },
+    {
+      "basename": "2024-07-01",
+      "path": "areas/Knowledge Base/Final/Daily Notes/2024-07-01.md"
+    },
+    {
+      "basename": "2024-05-29",
+      "path": "areas/Knowledge Base/Final/Daily Notes/2024-05-29.md"
+    },
+    {
+      "basename": "2024-05-08",
+      "path": "areas/Knowledge Base/Final/Daily Notes/2024-05-08.md"
+    },
+    {
+      "basename": "2023-09-22",
+      "path": "areas/Knowledge Base/Daily Notes/2023-09-22.md"
+    },
+    {
+      "basename": "2023-09-20",
+      "path": "areas/Knowledge Base/Daily Notes/2023-09-20.md"
+    },
+    {
+      "basename": "2023-09-19",
+      "path": "areas/Knowledge Base/Daily Notes/2023-09-19.md"
+    },
+    {
+      "basename": "2023-09-18",
+      "path": "areas/Knowledge Base/Daily Notes/2023-09-18.md"
+    },
+    {
       "basename": "2023-09-17",
-      "path": "areas/Knowledge Base/Daily Notes/2023-09-17.md"
+      "path": "projs/2023-09-17.md"
     },
     {
       "basename": "2023-09-14",
@@ -159,46 +199,6 @@
     {
       "basename": "2026-W20",
       "path": "areas/periodic/weekly/2026-W20.md"
-    },
-    {
-      "basename": "Work",
-      "path": "staging/Economics is a Game/Work.md"
-    },
-    {
-      "basename": "But What is a Machine",
-      "path": "staging/Economics is a Game/But What is a Machine.md"
-    },
-    {
-      "basename": "Alice_book_volume_1",
-      "path": "projs/alice/Alice_book_volume_1.pdf"
-    },
-    {
-      "basename": "Notes",
-      "path": "projs/babys_first_paper/Notes.md"
-    },
-    {
-      "basename": "2026-vault-reconnaissance",
-      "path": "areas/recon/2026-vault-reconnaissance.md"
-    },
-    {
-      "basename": "2026-05-11",
-      "path": "areas/periodic/daily/2026-05-11.md"
-    },
-    {
-      "basename": "202605091757",
-      "path": "areas/notes/202605091757.md"
-    },
-    {
-      "basename": "2026-05-10",
-      "path": "areas/periodic/daily/2026-05-10.md"
-    },
-    {
-      "basename": "202605091423",
-      "path": "areas/notes/202605091423.md"
-    },
-    {
-      "basename": "posted",
-      "path": "posted.md"
     }
   ],
   "omittedPaths": [],
