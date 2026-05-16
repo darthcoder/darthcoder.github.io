@@ -1,4 +1,4 @@
-1. [[arxive/Ark 1/GATE/Counting]]
+1. [[projs/gate/Math/Counting|Counting]]
 2. [[Probability Axioms]]
 3. [[Sample Space]]
 4. [[Events]]

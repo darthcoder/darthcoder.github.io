@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Counting",
+      "path": "projs/gate/Math/Counting.md"
+    },
+    {
+      "basename": "List",
+      "path": "areas/Knowledge Base/Probability and Statistics/List.md"
+    },
+    {
+      "basename": "List",
+      "path": "areas/Knowledge Base/Programming, DSA/List.md"
+    },
+    {
+      "basename": "List",
+      "path": "areas/Knowledge Base/Machine Learning/List.md"
+    },
+    {
+      "basename": "List",
+      "path": "areas/Knowledge Base/Linear Algebra/List.md"
+    },
+    {
+      "basename": "Health",
+      "path": "areas/Health/Health.md"
+    },
+    {
+      "basename": "Thinking",
+      "path": "areas/Thinking.md"
+    },
+    {
+      "basename": "Something to do",
+      "path": "areas/Knowledge Base/Final/Something to do.md"
+    },
+    {
+      "basename": "Skeleton Key",
+      "path": "areas/Knowledge Base/Final/Skeleton Key.md"
+    },
+    {
+      "basename": "Think",
+      "path": "areas/Intro to Philosophy/Think.md"
+    },
+    {
+      "basename": "The Question",
+      "path": "areas/Knowledge Base/Final/Vault/Finance/The Question.md"
+    },
+    {
       "basename": "Introduction",
-      "path": "areas/Knowledge Base/Final/Proofless/Introduction.md"
+      "path": "areas/Knowledge Base/Final/Vault/Agora/Introduction.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "projs/The Installer/Introduction.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "areas/Proofless/Introduction.md"
     },
     {
       "basename": "Philosophy",
@@ -147,58 +199,6 @@
     {
       "basename": "atomic",
       "path": "resrc/templates/atomic.md"
-    },
-    {
-      "basename": "Surat Ur Raad",
-      "path": "areas/QuranNotesForSelf/Surat Ur Raad.md"
-    },
-    {
-      "basename": "A life to live",
-      "path": "arxive/Ark/Projects/A life to live.md"
-    },
-    {
-      "basename": "promises-audit-2026-W18",
-      "path": "archive/promises-audit-2026-W18.md"
-    },
-    {
-      "basename": "49062 homafatima.01",
-      "path": "archive/vault/49062 homafatima.01.pdf"
-    },
-    {
-      "basename": "Nerd-Cred As A Creed",
-      "path": "pub/planned/Nerd-Cred As A Creed.md"
-    },
-    {
-      "basename": "2024-07-01",
-      "path": "archive/vault/Final/Daily Notes/2024-07-01.md"
-    },
-    {
-      "basename": "2024-05-29",
-      "path": "archive/vault/Final/Daily Notes/2024-05-29.md"
-    },
-    {
-      "basename": "2024-05-08",
-      "path": "archive/vault/Final/Daily Notes/2024-05-08.md"
-    },
-    {
-      "basename": "Game",
-      "path": "staging/Economics is a Game/Game.md"
-    },
-    {
-      "basename": "Introduction",
-      "path": "staging/Economics is a Game/Introduction.md"
-    },
-    {
-      "basename": "Why moneylenders?",
-      "path": "staging/Economics is a Game/Why moneylenders?.md"
-    },
-    {
-      "basename": "202604201949",
-      "path": "archive/202604201949.md"
-    },
-    {
-      "basename": "2026-W20",
-      "path": "areas/periodic/weekly/2026-W20.md"
     }
   ],
   "omittedPaths": [],
