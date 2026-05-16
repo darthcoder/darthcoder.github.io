@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Prologue",
+      "path": "areas/QuranNotesForSelf/Prologue.md"
+    },
+    {
+      "basename": "vault-delta-2026-W20c",
+      "path": "areas/recon/vault-delta-2026-W20c.md"
+    },
+    {
       "basename": "2026-W19",
       "path": "areas/periodic/weekly/2026-W19.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work.",
       "path": "Clippings/For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work..md"
-    },
-    {
-      "basename": "Prologue",
-      "path": "areas/Prologue.md"
-    },
-    {
-      "basename": "Zoologist and author Desmond Morris dies aged 98",
-      "path": "Clippings/Zoologist and author Desmond Morris dies aged 98.md"
     }
   ],
   "omittedPaths": [],
