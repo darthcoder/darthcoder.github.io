@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Alice_book_volume_1",
+      "path": "projs/alice/Alice_book_volume_1.pdf"
+    },
+    {
+      "basename": "The 0th lesson",
+      "path": "areas/QuranNotesForSelf/The 0th lesson.md"
+    },
+    {
+      "basename": "Surat Ur Raad",
+      "path": "areas/QuranNotesForSelf/Surat Ur Raad.md"
+    },
+    {
+      "basename": "Prologue",
+      "path": "areas/QuranNotesForSelf/Prologue.md"
+    },
+    {
+      "basename": "From Allah - A little relief",
+      "path": "areas/QuranNotesForSelf/From Allah - A little relief.md"
+    },
+    {
+      "basename": "An Idiotic Question",
+      "path": "areas/QuranNotesForSelf/An Idiotic Question.md"
+    },
+    {
+      "basename": "A new thread",
+      "path": "areas/QuranNotesForSelf/A new thread.md"
+    },
+    {
+      "basename": "2023-09-17",
+      "path": "areas/recon/2023-09-17.md"
+    },
+    {
+      "basename": "Basic Ideas",
+      "path": "areas/Book notes/Das Kapital/Basic Ideas.md"
+    },
+    {
+      "basename": "2026-W21",
+      "path": "2026-W21.md"
+    },
+    {
+      "basename": "vault-delta-2026-W20d",
+      "path": "areas/recon/vault-delta-2026-W20d.md"
+    },
+    {
+      "basename": "vault-delta-2026-W20c",
+      "path": "areas/recon/vault-delta-2026-W20c.md"
+    },
+    {
       "basename": "Counting",
       "path": "projs/gate/Math/Counting.md"
     },
@@ -93,10 +141,6 @@
       "path": "areas/Knowledge Base/Daily Notes/2023-09-18.md"
     },
     {
-      "basename": "2023-09-17",
-      "path": "projs/2023-09-17.md"
-    },
-    {
       "basename": "2023-09-14",
       "path": "areas/Knowledge Base/Daily Notes/2023-09-14.md"
     },
@@ -133,14 +177,6 @@
       "path": "areas/Knowledge Base/Daily Notes/2023-08-10.md"
     },
     {
-      "basename": "Prologue",
-      "path": "areas/QuranNotesForSelf/Prologue.md"
-    },
-    {
-      "basename": "vault-delta-2026-W20c",
-      "path": "areas/recon/vault-delta-2026-W20c.md"
-    },
-    {
       "basename": "2026-W19",
       "path": "areas/periodic/weekly/2026-W19.md"
     },
@@ -161,44 +197,8 @@
       "path": "arxive/vault-recon-narrative.md"
     },
     {
-      "basename": "Basic Ideas",
-      "path": "areas/Book notes/Das Kapital/Basic Ideas.md"
-    },
-    {
       "basename": "marxtsvpart1",
       "path": "areas/Book notes/Das Kapital/marxtsvpart1.pdf"
-    },
-    {
-      "basename": "The Philosophy of Notes",
-      "path": "areas/Book notes/Das Kapital/The Philosophy of Notes.md"
-    },
-    {
-      "basename": "Volume One Package-2022.09",
-      "path": "areas/Book notes/Das Kapital/Volume One Package-2022.09.pdf"
-    },
-    {
-      "basename": "Soviet Psychology Dialectics as Logic",
-      "path": "Clippings/Soviet Psychology Dialectics as Logic.md"
-    },
-    {
-      "basename": "Consistency",
-      "path": "resrc/Stack/Consistency.md"
-    },
-    {
-      "basename": "paper-2",
-      "path": "resrc/Stack/Templates/paper-2.md"
-    },
-    {
-      "basename": "memo",
-      "path": "resrc/templates/memo.md"
-    },
-    {
-      "basename": "daily-log-template",
-      "path": "resrc/templates/daily-log-template.md"
-    },
-    {
-      "basename": "atomic",
-      "path": "resrc/templates/atomic.md"
     }
   ],
   "omittedPaths": [],

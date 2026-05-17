@@ -52,3 +52,24 @@ There is no moral argument in the Capital.
 ```
 
 
+```ad-note
+collapse: open
+
+Value is equivalent to human labor power(objective socially necessary) expended in the creation of the commodity. Value and wealth both stem from commodities.
+```
+
+```ad-seealso
+collapse: open
+Capital is an analysis of human alienation and commodity fetishism, of a system in
+which human relations exist as things and via things, in other words, social relations as
+indirect relations mediated by money and commodities as opposed to relations that are
+direct and unmediated. It is about how human communities have become marketplaces,
+systems of exchange, in which all things are assessed according to their monetary value;
+and about how capitalism has resolved human relations into separate spheres, namely, the
+economic, political/legal, artistic/religious/philosophical, and social.
+
+```
+
+# THE COMMODITY
+
+Wealth in a capitalist society manifests as commodities.

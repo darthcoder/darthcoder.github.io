@@ -11,10 +11,12 @@
             "id": "ca973e035429a476",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "projs/alice/Alice_book_volume_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Alice_book_volume_1"
             }
           }
         ]
@@ -186,8 +188,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "76a9244a1f243445",
+  "active": "ca973e035429a476",
   "lastOpenFiles": [
+    "projs/babys_first_paper/Teaching Claude why.md",
+    "2026-W21.md",
+    "areas/recon/vault-delta-2026-W20d.md",
+    "areas/recon/2023-09-17.md",
     "areas/Proofless/Introduction.md",
     "areas/Health/Health.md",
     "areas/Health",
@@ -220,10 +226,6 @@
     "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Notes/Notes.md",
     "resrc/Stack/PARA_Starter_Kit_v2/3. Resouces/Marketing/Beginners Guide to Product Qualified Leads (PQL).md",
     "resrc/Stack/PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/3. Resouces/Productivity/How to Be a Productive Powerhouse Using Time Blocking.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/paper.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/3. Resouces/Personal Knowledge Management/Why I Keep a Research Blog by Gregory Gundersen.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/3. Resouces/Productivity/The language of SMART goals 5 ways to fix your bad goal-setting habits.md",
     "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Newer/Plan.canvas",
     "IMG_2778.jpeg",
     "IMG_2751.jpeg",
