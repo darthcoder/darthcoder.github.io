@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three Rupees
-date: 2026-05-18
+date: 2026-05-17
 ---
 
 A finance minister announces a three rupee hike in petrol. The campaign that just ended — the one whose victory permitted the hike — ran on a no-shortage, no-price-rise frame, held tight for months, repeated in speeches and rallies and prime-time panels until the repetition was itself the thing being trusted. There was no shortage. There would be no price rise. Anyone who said otherwise was either malicious, foreign-funded, or insufficiently patriotic. Now three rupees.
