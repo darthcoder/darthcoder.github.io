@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arxive/4_projs/Clippings/Building a custom skill together 2.md",
+                "file": "areas/4_projs/Rescission.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Building a custom skill together 2"
+              "title": "Rescission"
             }
           }
         ]
@@ -202,7 +202,15 @@
   },
   "active": "ca973e035429a476",
   "lastOpenFiles": [
+    "areas/4_projs/Preface.md",
+    "areas/4_projs/Index.md",
+    "areas/4_projs/Homa Cover Letter.md",
+    "areas/4_projs/First.md",
+    "areas/4_projs/Cover Letter.md",
+    "Clippings/Triplet Roots Language Model.md",
+    "Clippings/Data extraction and verification workflow.md",
     "areas/Consistency.md",
+    "arxive/4_projs/Clippings/Building a custom skill together 2.md",
     "areas/paper-2.md",
     "resrc/Stack/Daily Notes/2025-02-28.md",
     "Clippings/Consider the Sister.md",
@@ -221,16 +229,8 @@
     "Clippings/Disrupting the first reported AI-orchestrated cyber espionage campaign.md",
     "projs/alice/Alice_book_volume_1.pdf",
     "projs/babys_first_paper/Teaching Claude why.md",
-    "2026-W21.md",
-    "areas/recon/vault-delta-2026-W20d.md",
-    "areas/recon/2023-09-17.md",
-    "areas/Proofless/Introduction.md",
-    "areas/Health/Health.md",
     "areas/Health",
-    "areas/Thinking.md",
-    "areas/Intro to Philosophy/Think.md",
     "areas/Intro to Philosophy",
-    "projs/The Installer/Introduction.md",
     "projs/The Installer",
     "pub/planned/The AI Winter is Coming",
     "areas/Proofless",
