@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Rescission",
-      "path": "areas/4_projs/Rescission.md"
+      "basename": "taf-eng",
+      "path": "areas/Book notes/incoherence of philosophers/taf-eng.pdf"
     },
     {
-      "basename": "Preface",
-      "path": "areas/4_projs/Preface.md"
+      "basename": "The Incoherence",
+      "path": "areas/Book notes/incoherence of philosophers/The Incoherence.md"
+    },
+    {
+      "basename": "The Philosophy of Notes",
+      "path": "areas/Book notes/Das Kapital/The Philosophy of Notes.md"
     },
     {
       "basename": "Index",
       "path": "areas/4_projs/Index.md"
-    },
-    {
-      "basename": "Homa Cover Letter",
-      "path": "areas/4_projs/Homa Cover Letter.md"
     },
     {
       "basename": "First",
@@ -23,6 +23,18 @@
     {
       "basename": "Cover Letter",
       "path": "areas/4_projs/Cover Letter.md"
+    },
+    {
+      "basename": "Rescission",
+      "path": "areas/4_projs/Rescission.md"
+    },
+    {
+      "basename": "Preface",
+      "path": "areas/4_projs/Preface.md"
+    },
+    {
+      "basename": "Homa Cover Letter",
+      "path": "areas/4_projs/Homa Cover Letter.md"
     },
     {
       "basename": "Triplet Roots Language Model",
@@ -187,18 +199,6 @@
     {
       "basename": "Introduction",
       "path": "areas/Proofless/Introduction.md"
-    },
-    {
-      "basename": "Philosophy",
-      "path": "areas/Personal Finance/Philosophy.md"
-    },
-    {
-      "basename": "Propositional and first order logic",
-      "path": "areas/Knowledge Base/Final/GATE/Propositional and first order logic.md"
-    },
-    {
-      "basename": "2024-07-01",
-      "path": "areas/Knowledge Base/Final/Daily Notes/2024-07-01.md"
     }
   ],
   "omittedPaths": [],

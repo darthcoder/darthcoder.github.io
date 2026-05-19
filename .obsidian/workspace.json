@@ -11,24 +11,30 @@
             "id": "ca973e035429a476",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "areas/4_projs/Rescission.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "areas/Book notes/incoherence of philosophers/taf-eng.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Rescission"
+              "icon": "lucide-file-text",
+              "title": "taf-eng"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4390a56b59df6d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c123dbd260545def",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "areas/Book notes/incoherence of philosophers/taf-eng.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "taf-eng"
             }
           }
         ]
@@ -200,13 +206,18 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ca973e035429a476",
+  "active": "c123dbd260545def",
   "lastOpenFiles": [
-    "areas/4_projs/Preface.md",
+    "areas/Book notes/incoherence of philosophers/The Incoherence.md",
+    "areas/Book notes/Das Kapital/The Philosophy of Notes.md",
     "areas/4_projs/Index.md",
-    "areas/4_projs/Homa Cover Letter.md",
+    "areas/Book notes/incoherence of philosophers",
     "areas/4_projs/First.md",
     "areas/4_projs/Cover Letter.md",
+    "areas/4_projs/Rescission.md",
+    "areas/4_projs/So preliminary report · Issue #419 · anthropicsclaude-cookbooks.md",
+    "areas/4_projs/Preface.md",
+    "areas/4_projs/Homa Cover Letter.md",
     "Clippings/Triplet Roots Language Model.md",
     "Clippings/Data extraction and verification workflow.md",
     "areas/Consistency.md",
@@ -224,11 +235,7 @@
     "Clippings/Building AI for cyber defenders.md",
     "Clippings/2028 Two scenarios for global AI leadership.md",
     "Clippings/Persona vectors Monitoring and controlling character traits in language models.md",
-    "Clippings/Emergent introspective awareness in large language models.md",
-    "Clippings/Dario Amodei — The Adolescence of Technology.md",
-    "Clippings/Disrupting the first reported AI-orchestrated cyber espionage campaign.md",
     "projs/alice/Alice_book_volume_1.pdf",
-    "projs/babys_first_paper/Teaching Claude why.md",
     "areas/Health",
     "areas/Intro to Philosophy",
     "projs/The Installer",
@@ -237,7 +244,6 @@
     "areas/Personal Finance",
     "areas/Book notes/Das Kapital/capitalvol3.pdf",
     "areas/Book notes/Das Kapital/capitalvol1.pdf",
-    "areas/Book notes/Das Kapital/marxtsvpart2.pdf",
     "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Newer/Plan.canvas",
     "IMG_2778.jpeg",
     "IMG_2751.jpeg",
