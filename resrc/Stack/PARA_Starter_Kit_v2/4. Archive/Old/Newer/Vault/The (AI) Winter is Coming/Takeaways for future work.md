@@ -1,4 +1,0 @@
-> [!Questions]
-> How much is the contribution of Memorisation and how much is generation? The Socratic Dialogue on Autoregressive Encoders. 
-> What does it mean to be intelligent? Can you have intelligence without sentience? What about the ability to draw maps and locate yourself i.e embodiment? What about tool use? How can it determine when to use a tool and which tool to use? Why is 4/4o able to make more nuanced observations? How much of it is based on RLHF? How does an LLM pull in relevant information. How does it make grammatically consistent sentences? Is it pulling in a subspace of relevant embedding vectors from the embedding space and tracing a maximum likelihood path through it? Can it simply be said that language is always being fed to it and hence it is always performing "gradient descent" through a subspace of the space of embeddings? How to make the space of embeddings continuous and differentiable? 
-

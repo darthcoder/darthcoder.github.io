@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "areas/periodic/weekly/2026-W21.md",
+                "file": "arxive/4_projs/Clippings/Building a custom skill together 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-W21"
+              "title": "Building a custom skill together 2"
             }
           }
         ]
@@ -202,6 +202,12 @@
   },
   "active": "ca973e035429a476",
   "lastOpenFiles": [
+    "areas/Consistency.md",
+    "areas/paper-2.md",
+    "resrc/Stack/Daily Notes/2025-02-28.md",
+    "Clippings/Consider the Sister.md",
+    "areas/periodic/weekly/2026-W21.md",
+    "areas/recon/vault-delta-2026-W21b.md",
     "Clippings/Inoculation Prompting Instructing LLMs to misbehave at train-time improves test-time alignment.md",
     "Clippings/From shortcuts to sabotage natural emergent misalignment from reward hacking 1.md",
     "Clippings/Emergent Misalignment Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1.md",
@@ -226,15 +232,9 @@
     "areas/Intro to Philosophy",
     "projs/The Installer/Introduction.md",
     "projs/The Installer",
-    "pub/planned/The AI Winter is Coming/The (AI) Winter is Coming.md",
     "pub/planned/The AI Winter is Coming",
     "areas/Proofless",
-    "areas/Personal Finance/Philosophy.md",
     "areas/Personal Finance",
-    "projs/2023-09-17.md",
-    "areas/QuranNotesForSelf/Prologue.md",
-    "areas/recon/vault-delta-2026-W20c.md",
-    "areas/Book notes/Das Kapital/Basic Ideas.md",
     "areas/Book notes/Das Kapital/capitalvol3.pdf",
     "areas/Book notes/Das Kapital/capitalvol1.pdf",
     "areas/Book notes/Das Kapital/marxtsvpart2.pdf",
