@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-W21",
+      "path": "areas/periodic/weekly/2026-W21.md"
+    },
+    {
+      "basename": "Inoculation Prompting Instructing LLMs to misbehave at train-time improves test-time alignment",
+      "path": "Clippings/Inoculation Prompting Instructing LLMs to misbehave at train-time improves test-time alignment.md"
+    },
+    {
+      "basename": "From shortcuts to sabotage natural emergent misalignment from reward hacking",
+      "path": "Clippings/From shortcuts to sabotage natural emergent misalignment from reward hacking.md"
+    },
+    {
+      "basename": "Dario Amodei — The Urgency of Interpretability",
+      "path": "Clippings/Dario Amodei — The Urgency of Interpretability.md"
+    },
+    {
+      "basename": "Building AI for cyber defenders",
+      "path": "Clippings/Building AI for cyber defenders.md"
+    },
+    {
+      "basename": "2028 Two scenarios for global AI leadership",
+      "path": "Clippings/2028 Two scenarios for global AI leadership.md"
+    },
+    {
+      "basename": "Persona vectors Monitoring and controlling character traits in language models",
+      "path": "Clippings/Persona vectors Monitoring and controlling character traits in language models.md"
+    },
+    {
+      "basename": "Emergent introspective awareness in large language models",
+      "path": "Clippings/Emergent introspective awareness in large language models.md"
+    },
+    {
+      "basename": "Dario Amodei — The Adolescence of Technology",
+      "path": "Clippings/Dario Amodei — The Adolescence of Technology.md"
+    },
+    {
+      "basename": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
+      "path": "Clippings/Disrupting the first reported AI-orchestrated cyber espionage campaign.md"
+    },
+    {
       "basename": "Alice_book_volume_1",
       "path": "projs/alice/Alice_book_volume_1.pdf"
     },
@@ -35,10 +75,6 @@
     {
       "basename": "Basic Ideas",
       "path": "areas/Book notes/Das Kapital/Basic Ideas.md"
-    },
-    {
-      "basename": "2026-W21",
-      "path": "2026-W21.md"
     },
     {
       "basename": "vault-delta-2026-W20d",
@@ -163,42 +199,6 @@
     {
       "basename": "2023-08-16",
       "path": "areas/Knowledge Base/Daily Notes/2023-08-16.md"
-    },
-    {
-      "basename": "2023-08-14",
-      "path": "areas/Knowledge Base/Daily Notes/2023-08-14.md"
-    },
-    {
-      "basename": "2023-08-11",
-      "path": "areas/Knowledge Base/Daily Notes/2023-08-11.md"
-    },
-    {
-      "basename": "2023-08-10",
-      "path": "areas/Knowledge Base/Daily Notes/2023-08-10.md"
-    },
-    {
-      "basename": "2026-W19",
-      "path": "areas/periodic/weekly/2026-W19.md"
-    },
-    {
-      "basename": "2026-W18",
-      "path": "areas/periodic/weekly/2026-W18.md"
-    },
-    {
-      "basename": "2026-W17",
-      "path": "areas/periodic/weekly/2026-W17.md"
-    },
-    {
-      "basename": "vault-delta-2026-W20",
-      "path": "areas/recon/vault-delta-2026-W20.md"
-    },
-    {
-      "basename": "vault-recon-narrative",
-      "path": "arxive/vault-recon-narrative.md"
-    },
-    {
-      "basename": "marxtsvpart1",
-      "path": "areas/Book notes/Das Kapital/marxtsvpart1.pdf"
     }
   ],
   "omittedPaths": [],

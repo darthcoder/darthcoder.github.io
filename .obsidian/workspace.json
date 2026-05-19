@@ -11,12 +11,24 @@
             "id": "ca973e035429a476",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "projs/alice/Alice_book_volume_1.pdf"
+                "file": "areas/periodic/weekly/2026-W21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Alice_book_volume_1"
+              "icon": "lucide-file",
+              "title": "2026-W21"
             }
           }
         ]
@@ -190,6 +202,18 @@
   },
   "active": "ca973e035429a476",
   "lastOpenFiles": [
+    "Clippings/Inoculation Prompting Instructing LLMs to misbehave at train-time improves test-time alignment.md",
+    "Clippings/From shortcuts to sabotage natural emergent misalignment from reward hacking 1.md",
+    "Clippings/Emergent Misalignment Narrow finetuning can produce broadly misaligned LLMs 1 This paper contains model-generated content that might be offensive. 1.md",
+    "Clippings/From shortcuts to sabotage natural emergent misalignment from reward hacking.md",
+    "Clippings/Dario Amodei — The Urgency of Interpretability.md",
+    "Clippings/Building AI for cyber defenders.md",
+    "Clippings/2028 Two scenarios for global AI leadership.md",
+    "Clippings/Persona vectors Monitoring and controlling character traits in language models.md",
+    "Clippings/Emergent introspective awareness in large language models.md",
+    "Clippings/Dario Amodei — The Adolescence of Technology.md",
+    "Clippings/Disrupting the first reported AI-orchestrated cyber espionage campaign.md",
+    "projs/alice/Alice_book_volume_1.pdf",
     "projs/babys_first_paper/Teaching Claude why.md",
     "2026-W21.md",
     "areas/recon/vault-delta-2026-W20d.md",
@@ -214,18 +238,6 @@
     "areas/Book notes/Das Kapital/capitalvol3.pdf",
     "areas/Book notes/Das Kapital/capitalvol1.pdf",
     "areas/Book notes/Das Kapital/marxtsvpart2.pdf",
-    "areas/Book notes/Das Kapital/The Philosophy of Notes.md",
-    "areas/Book notes/Das Kapital/marxtsvpart3.pdf",
-    "Clippings/Soviet Psychology Dialectics as Logic.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Newer/The AI Winter is Coming/The (AI) Winter is Coming.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Newer/Vault/The (AI) Winter is Coming/Sparks Of AGI.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Notes-1.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Productivity Quotes.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/paper copy.md",
-    "resrc/Stack/Templates/paper-2.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Notes/Notes.md",
-    "resrc/Stack/PARA_Starter_Kit_v2/3. Resouces/Marketing/Beginners Guide to Product Qualified Leads (PQL).md",
-    "resrc/Stack/PARA_Starter_Kit_v2/1. Projects/PARA Starter Kit/Methodology.md",
     "resrc/Stack/PARA_Starter_Kit_v2/4. Archive/Old/Newer/Plan.canvas",
     "IMG_2778.jpeg",
     "IMG_2751.jpeg",
