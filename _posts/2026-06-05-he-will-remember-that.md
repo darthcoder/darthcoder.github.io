@@ -1,7 +1,7 @@
------
-
-## layout: post
+---
+layout: post
 title: He Will Remember That
+---
 
 > The laws of playground justice are self-evident, and to question them and seek clarification about them is a grave error and a violation of the spirit of play.
 
