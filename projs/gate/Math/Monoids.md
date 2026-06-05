@@ -1,1 +1,0 @@
-> A monad is a monoid under the category of endofunctors. Whats there to understand?

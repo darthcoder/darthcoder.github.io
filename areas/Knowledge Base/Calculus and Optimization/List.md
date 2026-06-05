@@ -1,6 +1,0 @@
-1. [[Functions of a single Variable]]
-2. [[Limit]]
-3. [[Continuity and Differentiability]]
-4. [[Taylor Series]]
-5. [[Maxima and Minima]]
-6. [[Optimization involving a single variable]]

@@ -1,5 +1,0 @@
-It stands to reason that I don't have to explain what work is from first principles without it feeling like work and defeating the whole purpose of the inquiry. 
-
-Which raises the pertinent question why is it that when something feels like work - all of the joy has been wrung out of that activity. We can look at Bullshit Jobs or the System1/2 framing or even the flow state framing. Books exist that promise to make you Indistractable or make you Hyper-focus but a) you get that for free in ADHD and b) no one questions the premise - even the Cal Newport framing of work as Deep Work or Slow Productivity imagine work as something important, but how is the work of a middle layer manager in any shape or form meaningful. The problem with Bullshit Jobs is the underscoring statement - all jobs are bullshit, the bullshit is oxymoron. No job is fulfilling, because in late stage capitalism we can't have fulfillment. 
-
-Work is the only state of matter that matters after all, but why? Why does work matter. On the one hand it is a matter of logistics, the world economy in as much as it could be termed economical in any stretch of meaning is all that sustains and for its 

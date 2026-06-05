@@ -1,0 +1,32 @@
+title:            darthcoder
+tagline:          'words'
+description:      'A personal blog.'
+url:              https://darthcoder.github.io
+baseurl:          /
+
+author:
+  name:           'Abdul Basit Ahmad'
+
+paginate:         10
+permalink:        pretty
+
+markdown:         kramdown
+highlighter:      rouge
+
+kramdown:
+  input: GFM
+
+gems:
+  - jekyll-paginate
+
+exclude:
+  - '*.sublime-project'
+  - '*.sublime-workspace'
+  - vendor
+  - .bundle
+  - .asset-cache
+  - .jekyll-assets-cache
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CLAUDE.md

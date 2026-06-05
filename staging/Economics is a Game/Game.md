@@ -1,3 +1,0 @@
-Anything that is not srs bizness is a game. If it is a srs bizness then it is a game with permanent consequences that can't be unrolled. They mutate the game board in 4D.
-
-The rules of work are similar, the appearance of work is more valuable than work itself. The most important way to appear busy is to delegate responsibility. The more you coordinate and appear busy the more work points you accomplish. This is the kryptonite that [[Nerd-Cred As A Creed]] fails at.
